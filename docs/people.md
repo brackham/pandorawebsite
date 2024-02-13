@@ -36,8 +36,17 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Jessie Christiansen: Archive Scientist"
     {%include-markdown "authors/christiansen.md"%}
 
+!!! people "Natalie Allen"
+    {%include-markdown "authors/allen.md"%}
+
+!!! people "Néstor Espinoza"
+    {%include-markdown "authors/espinoza.md"%}
+
 !!! people "Trevor Foote"
     {%include-markdown "authors/foote.md"%}
+
+!!! people "Nguyen Fuda"
+    {%include-markdown "authors/fuda.md"%}
 
 !!! people "Emily Gilbert"
     {%include-markdown "authors/gilbert.md"%}
@@ -48,11 +57,17 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Kelsey Hoffman"
     {%include-markdown "authors/hoffman.md"%}
 
+!!! people "Ben Hord"
+    {%include-markdown "authors/hord.md"%}
+
 !!! people "Veselin Kostov"
     {%include-markdown "authors/kostov.md"%}
 
 !!! people "Nikole Lewis"
     {%include-markdown "authors/lewis.md"%}
+
+!!! people "Andrew Mann"
+    {%include-markdown "authors/mann.md"%}
 
 !!! people "Megan Mansfield"
     {%include-markdown "authors/mansfield.md"%}
